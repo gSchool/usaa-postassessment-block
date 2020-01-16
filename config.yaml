@@ -23,7 +23,7 @@
 
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
 Standards:
-  - Title: Post Assessment
+  - Title: Self Assessment
     UID:  e3b9a942-9bbc-4b1d-9875-2dfe422405f8
     Description: Evaluate your Skills and Experience 
     SuccessCriteria:
