@@ -24,12 +24,12 @@
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
 Standards:
   - Title: Post Assessment
-    UID:  7c5f1c40-3646-11ea-8200-49856ed013fb
+    UID:  e3b9a942-9bbc-4b1d-9875-2dfe422405f8
     Description: Evaluate your Skills and Experience 
     SuccessCriteria:
       -  Complete the survey
     ContentFiles:
       - Type: Checkpoint
-        UID: 5da00770-364a-11ea-8200-49856ed013fb
+        UID: 31f01ddf-23dc-4f46-9529-bcccdc93320e
         Path: /post-assessment-survey.md
         Autoscore: false
