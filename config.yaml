@@ -25,7 +25,7 @@
 Standards:
   - Title: Self Assessment
     UID:  e3b9a942-9bbc-4b1d-9875-2dfe422405f8
-    Description: Evaluate your Skills and Experience 
+    Description: Evaluate your progress after the course 
     SuccessCriteria:
       -  Complete the survey
     ContentFiles:
