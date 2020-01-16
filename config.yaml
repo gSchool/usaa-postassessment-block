@@ -23,7 +23,7 @@
 
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
 Standards:
-  - Title: Self Assessment
+  - Title: Post Assessment
     UID:  7c5f1c40-3646-11ea-8200-49856ed013fb
     Description: Evaluate your Skills and Experience 
     SuccessCriteria:
@@ -31,15 +31,5 @@ Standards:
     ContentFiles:
       - Type: Checkpoint
         UID: 5da00770-364a-11ea-8200-49856ed013fb
-        Path: /self-assessment-survey.md
+        Path: /post-assessment-survey.md
         Autoscore: false
-  - Title: Java Coding Challenge
-    UID: b0979f17-2a35-4403-be98-10f0dcf5fd91
-    Description: Test your basic Java syntax
-    SuccessCriteria:
-      - All tests pass
-    ContentFiles:
-      - Type: Checkpoint
-        UID: 6db83840-023b-4ddd-b86d-5fdc5f254125 
-        Path: /java-unique-characters.md
-        Autoscore: true

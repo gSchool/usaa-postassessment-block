@@ -1,31 +1,8 @@
 # Self Assessement
-This survey is meant to determine your experience with the technologies we will be using in class. You are not expected to be an expert in all the technologies presented. We can use your responses to provide you with review materials to prepare you for the course.
+This survey is meant to determine your progress with the technologies and skills we practiced in the course.
 <!-- What is your role? -->
 <!-- Whate team are you on? -->
 ## General Programming knowledge
-<!--BEGIN CHALLENGE-->
-### !challenge
-* type: multiple-choice
-* id: 5f9c1070-3648-11ea-8200-49856ed013fb
-* title: Professional Experience
-##### !question
-How many years have you been developing web applications?
-##### !end-question
-##### !options
-* Less than 1 year
-* 1 - 2 years
-* 2 - 3 years
-* 3 - 6 years
-* 6 - 10 years
-* 10+ years
-##### !end-options
-##### !answer
-10+ years
-##### !end-answer
-##### !explanation
-##### !end-explanation
-### !end-challenge
-<!--END CHALLENGE-->
 
 <!--BEGIN CHALLENGE-->
 ### !challenge
@@ -586,30 +563,6 @@ Novice
 * title: How would you rate your knowledge of
 ##### !question
 React.js?
-##### !end-question
-##### !options
-* Never heard of it
-* Played with it
-* Novice
-* Proficient
-* Expert
-* I could teach it!
-##### !end-options
-##### !answer
-Novice
-##### !end-answer
-##### !explanation
-##### !end-explanation
-### !end-challenge
-<!--END CHALLENGE-->
-
-<!--BEGIN CHALLENGE-->
-### !challenge
-* type: multiple-choice
-* id: ededfbf6-5a0f-48d6-99ec-aff335b3b0c8
-* title: How would you rate your knowledge of
-##### !question
-Pyrite.js?
 ##### !end-question
 ##### !options
 * Never heard of it
